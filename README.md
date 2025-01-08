@@ -1,0 +1,2 @@
+# ShittyJSAutoclicker
+Check the name
